@@ -8,7 +8,7 @@
             "server": "http://localhost",
             "serverInstance": "Navision_main",
             "tenant": "default",
-            "windowsAuthentication": true
+            "authentication": "Windows"
         }
     ]
 }

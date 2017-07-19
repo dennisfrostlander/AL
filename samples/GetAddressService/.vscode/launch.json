@@ -7,7 +7,7 @@
             "name": "Publish",
             "server": "http://localhost",
             "serverInstance": "navision_main",
-            "windowsAuthentication": true
+            "authentication": "Windows"
         }
     ]
 }
